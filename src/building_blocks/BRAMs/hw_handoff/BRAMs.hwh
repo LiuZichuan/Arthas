@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<EDKSYSTEM EDWVERSION="1.2" TIMESTAMP="Fri Dec 29 16:26:59 2017" VIVADOVERSION="2015.4">
+
+  <SYSTEMINFO ARCH="zynq" BOARD="xilinx.com:zc706:part0:1.2" DEVICE="7z045" NAME="BRAMs" PACKAGE="ffg900" SPEEDGRADE="-2"/>
+
+  <EXTERNALPORTS/>
+
+  <EXTERNALINTERFACES/>
+
+  <MODULES/>
+
+</EDKSYSTEM>

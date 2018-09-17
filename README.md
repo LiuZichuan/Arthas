@@ -2,6 +2,7 @@
 An Arch-Configurable FPGA implementation of CNN Accelerator for Object Detection.
 
 ## Overview
+![alt text](https://github.com/LiuZichuan/Arthas/blob/master/fig/top.pdf)
 
 ## Getting Started
 

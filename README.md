@@ -1,8 +1,10 @@
 # Arthas
-An Arch-Configurable FPGA implementation of CNN Accelerator for Object Detection.
+An Arch-Configurable FPGA implementation of CNN Accelerator for Object Detection. 
 
 ## Overview
-![Top Arch](https://github.com/LiuZichuan/Arthas/blob/master/fig/top.svg)
+The project is written in Matlab and SystemVerilog. To enable arch-configurability, only the basic building blocks (processing element, data buffers and state machine) are written in pure SystemVerilog, and the middle and top architecture are specified by Matlab scripts. 
+
+![top_arch](https://github.com/LiuZichuan/Arthas/blob/master/fig/top.svg)
 
 ## Getting Started
 

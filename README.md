@@ -3,6 +3,8 @@ An Arch-Configurable FPGA implementation of CNN Accelerator for Object Detection
 
 ![top_arch](https://github.com/LiuZichuan/Arthas/blob/master/fig/top.svg)
 
+![top_arch](https://github.com/LiuZichuan/Arthas/blob/master/fig/array.svg)
+
 ## Getting Started
 
 ### Language
